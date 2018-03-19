@@ -1,7 +1,7 @@
 MTI_Code
 ========
 
-MTI for Dynamic Infinite Mixed-Membership Stochastic Blockmodel
+Code for the MTV in DIM3 (TNNLS)
 
 This is an implementation of MTV-g, MTV-s model in the paper of "Dynamic Infinite Mixed-Membership Stochastic Blockmodel".
 
